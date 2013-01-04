@@ -9,7 +9,7 @@ BroadWorks is a SIP-based Telephony Application Server developed by BroadSoft co
 What does it do?
 ----------------
 
-CAP Client provides classes that enables, using Java event-driven model, listening for 
+CAP Client provides classes that enable you, using Java event-driven model, listening for 
 specifics telephony call events.
 
 How to use?
